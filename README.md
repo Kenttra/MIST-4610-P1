@@ -16,10 +16,10 @@ Our team decided to model a database that supports fantasy football analysis, fo
 ![Dic 8](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.03.14%20AM.png)
 ### Queries
 #1. Join Player data with PlayerStatistics data.
-![Q1](https://github.com/Kenttra/MIST-4610-P1/blob/main/Screenshot%202024-09-30%20114609.png)
+![Q1](https://github.com/Kenttra/MIST-4610-P1/blob/main/Q1)
 
 #2. Sort by positions in the data.
-![Q2](https://github.com/Kenttra/MIST-4610-P1/blob/main/Screenshot%202024-09-30%20114642.png)
+![Q2](https://github.com/Kenttra/MIST-4610-P1/blob/main/Q2)
 
 #9.Select teams whose average points scored are higher than league-wide average points scored by all teams.
 

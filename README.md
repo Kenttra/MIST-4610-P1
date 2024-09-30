@@ -154,3 +154,4 @@ This simple query shows player performance in a given game and how many fantasy 
 ![Q10](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Q10.png)
 
 ### Matrix
+![Matrix](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Project%20Matrix.png)

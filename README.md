@@ -21,6 +21,12 @@ Our team decided to model a database that supports fantasy football analysis, fo
 #2. Sort by positions in the data.
 ![Q2](https://github.com/Kenttra/MIST-4610-P1/blob/main/Q2)
 
+#3.Select all teams and sum up their total wins.
+![Q3](https://github.com/lwh12347/Mist-4610/blob/main/Q3.png)
+
+#4.Select all teams whose average points are above 80.
+![Q4](https://github.com/lwh12347/Mist-4610/blob/main/Q4.png)
+
 #9.Select teams whose average points scored are higher than league-wide average points scored by all teams.
 
 ![Q9](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Q9.png)

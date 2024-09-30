@@ -6,6 +6,22 @@ Our team decided to model a database that supports fantasy football analysis, fo
 ### Data Model 
 ![Data_Model](https://github.com/Kenttra/MIST-4610-P1/blob/main/mist4610-p1%20data%20model.png)
 ### Data Dictionary
+![Dic 1](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.02.33%20AM.png)
+![Dic 2](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.02.39%20AM.png)
+![Dic 3](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.02.43%20AM.png)
+![Dic 4](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.02.48%20AM.png)
+![Dic 5](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.02.58%20AM.png)
+![Dic 6](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.03.04%20AM.png)
+![Dic 7](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.03.10%20AM.png)
+![Dic 8](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/Screenshot%202024-09-30%20at%201.03.14%20AM.png)
 ### Queries
+#9.Select teams whose average points scored are higher than league-wide average points scored by all teams.
+
+![Q9](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Q9.png)
+
+#10.Retrieve the list of free agent players from the Player table and sort them by their position.
+
+![Q10](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Q10.png)
+
 ### Matrix
 

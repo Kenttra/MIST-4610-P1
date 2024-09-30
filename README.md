@@ -35,6 +35,12 @@ Our team decided to model a database that supports fantasy football analysis, fo
 #4.Selects only teams who score an average greater than 80 points. This query is useful for displaying scoring numbers across the league. This type of query is important for determining which teams perform at a certain level to show the general performance of the league while excluding outliers.
 ![Q4](https://github.com/lwh12347/Mist-4610/blob/main/Q4.png)
 
+#7.The query is designed to help identify players who have scored more points than the average player in their respective leagues. This query is useful to see which players are playing at a high level for those looking to improve their team
+![Q7](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/q7.png)
+
+#8.The query is designed to help identify how much each position scores, on average, in each league. This query is useful to see which what positions might be lacking in certain leagues and if the leagues should look for better players at certain positions.
+![Q8](https://github.com/Shaan-Bhagat/MIST-4610-Project-1/blob/main/q8.png)
+
 #9.Select teams whose average points scored are higher than league-wide average points scored by all teams.
 
 ![Q9](https://github.com/SahilPnc/MIST-4610-Project-1-/blob/main/Q9.png)
